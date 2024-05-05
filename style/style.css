@@ -1,0 +1,20 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.carousel-item.img{
+    height: 100vh;
+}
+.carousel-caption{
+    background-color: rgb(151, 194, 244,4);
+    border-radius: 20px;
+}
+.carousel-caption:hover{
+    background-color:rgb(48, 97, 232,0.4);
+    transition: ease;
+}
+.btn-dark:hover{
+    background-color: crimson!important;
+    border-radius: 20px;
+    transition: 1s ease all;
+}
